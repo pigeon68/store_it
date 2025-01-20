@@ -21,3 +21,6 @@ React 19, Next.js 15, Appwrite, TailwindCSS, ShadCN, TypeScript
 👉 Sorting Options: Organize files by name, size, or date to streamline file management.
 
 👉 Modern Responsive UI: Enjoy a sleek, minimalist interface that adapts perfectly across all devices for a seamless user experience.
+
+
+followed a tutorial: https://www.youtube.com/watch?v=lie0cr3wESQ
